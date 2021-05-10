@@ -1,7 +1,7 @@
 # ArtGANs
 
 Generative Adversarial Networks for artgenreation
-1. SAPGAN
+1. SAPGAN [paper link](https://arxiv.org/abs/2011.05552)
 2. Auto painter
 3. An effeicient bi-layer content based image retrieval system
 4. Teaching GANs to Sketch in Vector Format
