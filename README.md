@@ -1,4 +1,4 @@
-# ArtGANs
+# Deep networks for art
 
 ## Generative Adversarial Networks for art genreation
 
