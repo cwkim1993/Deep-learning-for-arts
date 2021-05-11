@@ -1,4 +1,4 @@
-# Deep networks for art
+# Deep networks for arts
 
 ## Generative Adversarial Networks for art genreation
 
